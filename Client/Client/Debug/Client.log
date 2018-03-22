@@ -1,6 +1,0 @@
-﻿  Client.cpp
-d:\p2p\client\client\client.cpp(8): warning C4018: '<': signed/unsigned mismatch
-d:\p2p\client\client\client.cpp(22): warning C4018: '<': signed/unsigned mismatch
-d:\p2p\client\client\client.cpp(34): warning C4018: '<': signed/unsigned mismatch
-d:\p2p\client\client\client.cpp(82): warning C4715: 'Client::sendMessage': not all control paths return a value
-  Client.vcxproj -> D:\P2P\Client\Debug\Client.exe
